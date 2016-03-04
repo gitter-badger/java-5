@@ -1,4 +1,6 @@
 # java
+
+[![Join the chat at https://gitter.im/arita291/java](https://badges.gitter.im/arita291/java.svg)](https://gitter.im/arita291/java?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This package shows practical examples of using Java JAR inside Python.
 You can use JAVA tools as if it were Python Package, enhancing Python capabilities.
 
